@@ -2,8 +2,8 @@ collections:
   authors:
     output: true
 
-url: "https://robyy.github.io"
-baseurl: "/JekyllProject"
+url: "https://robyyx.github.io"
+baseUrl: "/JekyllProject"
 
 defaults:
   - scope:
