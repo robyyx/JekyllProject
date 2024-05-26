@@ -1,0 +1,36 @@
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Temporary files and directories
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Site output
+_site/
+
+# Bundler files
+.bundle/
+vendor/bundle/
+
+# Node modules
+node_modules/
+
+# Byebug command history file
+.byebug_history
+
+# dotenv environment variable file
+.env
+
+# DS_Store for macOS
+.DS_Store
+
+# Temporary files and swap files
+*.swp
+*~
+
+# Gemfile.lock, if you want to include it in the repository, remove this line
+Gemfile.lock
