@@ -1,8 +1,8 @@
 - name: Home
-  link: JekyllProject/
+  link: /
 - name: About
-  link: JekyllProject/about.html
+  link: /about.html
 - name: Blog
-  link: JekyllProject/blog.html
+  link: /blog.html
 - name: Staff
-  link: JekyllProject/staff.html
+  link: /staff.html
