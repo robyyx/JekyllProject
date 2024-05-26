@@ -2,6 +2,9 @@ collections:
   authors:
     output: true
 
+url: "https://robyy.github.io"
+baseurl: "/JekyllProject"
+
 defaults:
   - scope:
       path: ""
